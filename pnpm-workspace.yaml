@@ -1,4 +1,0 @@
-packages:
-  - '**'
-  - "!**/test/**"
-  - "!resolve-link-target/node_modules_link/**"
